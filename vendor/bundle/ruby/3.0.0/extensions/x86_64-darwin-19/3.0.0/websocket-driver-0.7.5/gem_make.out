@@ -1,0 +1,18 @@
+current directory: /Users/ssk/hellorailapp/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+/Users/ssk/.rbenv/versions/3.0.1/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/ssk/hellorailapp/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230616-49976-dfabeb sitelibdir\=./.gem.20230616-49976-dfabeb clean
+
+current directory: /Users/ssk/hellorailapp/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230616-49976-dfabeb sitelibdir\=./.gem.20230616-49976-dfabeb
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ssk/hellorailapp/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230616-49976-dfabeb sitelibdir\=./.gem.20230616-49976-dfabeb install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20230616-49976-dfabeb
+
+current directory: /Users/ssk/hellorailapp/vendor/bundle/ruby/3.0.0/gems/websocket-driver-0.7.5/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20230616-49976-dfabeb sitelibdir\=./.gem.20230616-49976-dfabeb clean
